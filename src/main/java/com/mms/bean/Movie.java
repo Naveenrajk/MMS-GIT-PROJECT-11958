@@ -84,9 +84,4 @@ public class Movie {
 				+ duration + "]";
 	}
 
-	public static int performInsert(int i) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
 }
