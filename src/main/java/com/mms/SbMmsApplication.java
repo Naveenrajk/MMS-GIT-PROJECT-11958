@@ -10,7 +10,4 @@ public class SbMmsApplication {
 		SpringApplication.run(SbMmsApplication.class, args);
 	}
 	
-	public void main() {
-		
-	}
 }
